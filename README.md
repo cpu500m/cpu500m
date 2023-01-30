@@ -9,11 +9,11 @@
 
 ## 사용하는 IDE 및 Text Editor
 
-### IntelliJ , Visual studo , Visual studio code , NotePad , Vim
+### IntelliJ , Visual studio , Visual studio code , NotePad , Vim
 
 ## 사용해본 것들. 공부한 것들
 
-### Docker , 디지털 포렌식 , 컴파일러 ,  
+### Docker , 디지털 포렌식 , 컴파일러  
 
 
-#### 꾸미는건 나중에 ㅎ
+#### 꾸미는건 나중에 자세히 꾸미자 적는 것도 나중에 자세히 적고..
