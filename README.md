@@ -10,7 +10,7 @@
 
 ## 사용하는 IDE 및 Text Editor
 
-### IntelliJ , Visual studio , Visual studio code , NotePad , Vim
+### IntelliJ , eclipse, Visual studio , Visual studio code , NotePad , Vim
 
 ## 사용해본 것들. 공부한 것들
 
