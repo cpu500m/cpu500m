@@ -4,19 +4,17 @@
 <img width="490" alt="image" src="https://user-images.githubusercontent.com/80875680/215491980-8cad79b0-997b-4fd4-8dd2-b9281194133c.png">
 <img width="684" alt="image" src="https://user-images.githubusercontent.com/80875680/221802845-f6fc037f-c22f-43bc-89b8-d742f09dad26.png">
 
-## 언어
+## 주력 언어
 
-### JAVA, C, C++ , Python 
+### JAVA, C 
 
-## 사용하는 IDE 및 Text Editor
+## 주력으로 사용하는 IDE 및 Text Editor
 
-### IntelliJ , eclipse, Visual studio , Visual studio code , NotePad , Vim
-
-## 사용해본 것들. 공부한 것들
-
-### Docker , 디지털 포렌식 , 컴파일러  
+### IntelliJ , Vim
 
 ## 학점
-### 4.02 / 4.5 ( 개쓸데없지만 열심히 했다는 증거. 성적 우수장학금 야무지게 2번 탐)
+<img width="778" alt="image" src="https://github.com/cpu500m/cpu500m/assets/80875680/dad250c9-038f-4414-ba40-8a2fe8877894">
 
-#### 꾸미는건 나중에 자세히 꾸미자 적는 것도 나중에 자세히 적고..
+<img width="540" alt="image" src="https://github.com/cpu500m/cpu500m/assets/80875680/b85981c9-387d-45e7-a913-5a43825e25ec">
+<img width="506" alt="image" src="https://github.com/cpu500m/cpu500m/assets/80875680/d833f69a-5db5-4430-bbe9-109c07af28b1">
+
